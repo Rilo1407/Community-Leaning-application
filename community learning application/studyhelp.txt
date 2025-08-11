@@ -1,0 +1,3 @@
+welcome to your study! from this page you will be able to create your own study sets, generate flashcards and test yourself.
+To start a test or generate a flashcard you have to first select a section from the listbox next to the test button.
+You can also do tests on sets that arent yours by saving a study set on the search page and coming back to your study, the set will be shown in your section listbox.

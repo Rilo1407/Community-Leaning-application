@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/04 17:08:47.234.pas,C:\Users\rahil\OneDrive\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\rahil\OneDrive\Documents\RAD Studio\Projects\frmadmin_u.pas</Transaction>
+    <Transaction>2022/03/04 17:08:47.235.dfm,C:\Users\rahil\OneDrive\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\rahil\OneDrive\Documents\RAD Studio\Projects\frmadmin_u.dfm</Transaction>
+    <Transaction>2022/03/04 17:19:31.158.pas,C:\Users\rahil\OneDrive\Documents\RAD Studio\Projects\frmadmin_u.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmadmin_u.pas</Transaction>
+    <Transaction>2022/03/04 17:19:31.158.dfm,C:\Users\rahil\OneDrive\Documents\RAD Studio\Projects\frmadmin_u.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmadmin_u.dfm</Transaction>
+    <Transaction>2022/03/04 17:20:43.441.dproj,C:\Users\rahil\OneDrive\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\comlearning.dproj</Transaction>
+    <Transaction>2022/03/04 18:02:12.480.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit2.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmSearch.pas</Transaction>
+    <Transaction>2022/03/04 18:02:12.481.dfm,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit2.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmSearch.dfm</Transaction>
+    <Transaction>2022/03/04 18:02:30.853.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmSearch.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmSearch_u.pas</Transaction>
+    <Transaction>2022/03/04 18:02:30.853.dfm,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmSearch.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmSearch_u.dfm</Transaction>
+    <Transaction>2022/03/04 18:03:44.787.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit3.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmStudy_u.pas</Transaction>
+    <Transaction>2022/03/04 18:03:44.787.dfm,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit3.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmStudy_u.dfm</Transaction>
+    <Transaction>2022/03/06 01:04:13.003.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit4.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmTest_u.pas</Transaction>
+    <Transaction>2022/03/06 01:04:13.006.dfm,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit4.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmTest_u.dfm</Transaction>
+    <Transaction>2022/03/31 17:04:51.018.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit1.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmSignUp_u.pas</Transaction>
+    <Transaction>2022/03/31 17:04:51.018.dfm,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit1.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmSignUp_u.dfm</Transaction>
+    <Transaction>2022/03/31 17:06:54.224.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit3.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmLogin_u.pas</Transaction>
+    <Transaction>2022/03/31 17:06:54.224.dfm,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit3.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmLogin_u.dfm</Transaction>
+    <Transaction>2022/03/31 17:10:05.409.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit4.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmWelcome_u.pas</Transaction>
+    <Transaction>2022/03/31 17:10:05.409.dfm,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit4.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\frmWelcome_u.dfm</Transaction>
+    <Transaction>2022/04/04 15:48:21.654.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit1.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\dmComLearning_u.pas</Transaction>
+    <Transaction>2022/04/04 15:48:21.654.dfm,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\Unit1.dfm=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil\dmComLearning_u.dfm</Transaction>
+    <Transaction>2022/04/21 23:37:22.031.pas,C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil - Copy (2)\Unit1.pas=C:\Users\rahil\OneDrive\Desktop\Gr12 pat it rahil - Copy (2)\clsLogin_u.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="clsLogin_u.pas"/>
+    <File Path="dmComLearning_u.pas"/>
+    <File Path="dmComLearning_u.dfm"/>
+    <File Path="frmadmin_u.pas"/>
+    <File Path="frmadmin_u.dfm"/>
+    <File Path="frmLogin_u.pas"/>
+    <File Path="frmLogin_u.dfm"/>
+    <File Path="frmSearch_u.pas"/>
+    <File Path="frmSearch_u.dfm"/>
+    <File Path="frmSignUp_u.pas"/>
+    <File Path="frmSignUp_u.dfm"/>
+    <File Path="frmStudy_u.pas"/>
+    <File Path="frmStudy_u.dfm"/>
+    <File Path="frmTest_u.pas"/>
+    <File Path="frmTest_u.dfm"/>
+    <File Path="frmWelcome_u.pas"/>
+    <File Path="frmWelcome_u.dfm"/>
+    <File Path="Validation_U.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

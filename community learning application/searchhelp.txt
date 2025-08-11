@@ -1,0 +1,4 @@
+Having trouble Finding the content you want? try enabling the filter and using the search bar it will help you narrow down the choices and if you dont like the filter you can always set the search to default by clicking the reset search button.
+Dont know how to read a concept's content just click the view button and enter the contentid of the record to view it's definition.
+Feel like a record is inapropriate,incorrectly catergorised or just wrong select the report button and send us feed back and we will sort out the problem.
+how do i test myself on other's sets? select the save button and the set sould be available in your study.

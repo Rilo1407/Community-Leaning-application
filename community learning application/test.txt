@@ -1,0 +1,4 @@
+mp#melting point
+bp#boiling point
+covalent bond#emf>3
+ionic bond#emf<3
